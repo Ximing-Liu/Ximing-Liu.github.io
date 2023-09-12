@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "xmliu Account"
 title_separator          : "-"
-name                     : &name "    刘希明     "
+name                     : &name "  刘希明 1  "
 description              : &description "Phd Candidate"
 url                      : https://Ximing-Liu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
